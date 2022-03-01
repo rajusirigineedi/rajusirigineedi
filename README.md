@@ -2,4 +2,4 @@
 Hi, I’m Raju
 You can call me Hemanth as well.
 
-Currently, I'm a Software Engineer.
+I'm a Software Engineer.
